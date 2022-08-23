@@ -1,0 +1,22 @@
+/* Styles are messy, I'd use styled components or scss */
+
+.flex-inline {
+  display: flex;
+  align-items: center;
+}
+
+.selected {
+  color: red;
+}
+
+.m-1 {
+  margin: 8px;
+}
+
+.App {
+  margin: 0 auto;
+}
+
+.NewIssue .btn-create {
+  white-space: nowrap;
+}
