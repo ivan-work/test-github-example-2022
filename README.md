@@ -7,3 +7,4 @@ test exercise
 1) Get github API token
 1) `cp env.example .env`
 1) Fill the variable with your token
+1) `npm start`
